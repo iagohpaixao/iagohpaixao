@@ -1,16 +1,35 @@
-## Hi there 👋
+# Olá eu sou o Iago Paixão
 
-<!--
-**iagohpaixao/iagohpaixao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim
 
-Here are some ideas to get you started:
+Sou um **Analista de Logística** em transição para a **Área de Análise de Dados**. Após anos de experiência em logística, decidi migrar definitivamente para a área de dados, onde identifiquei minha vocação e desenvolvi grande interesse. Com uma sólida base de conhecimentos, busco aplicar minhas habilidades de modelagem e análise de dados para transformar dados em insights valiosos e apoiar decisões estratégicas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente, sou **Analista de Transportes** na Farmax, onde sou responsável pela elaboração de relatórios gerenciais baseados em dados logísticos, análise de indicadores de desempenho das transportadoras contratadas e apoio nas decisões estratégicas da organização, nesta atual função tento sempre aplicar meus conhecimentos adquiridos nos estudos que tenho feito voltados para área de dados .
+
+---
+
+## Formação Acadêmica
+
+- **Pós-Graduação em Ciência de Dados**  
+  *Centro Universitário Una* – Cursando
+
+- **Graduação em Gestão Logística**  
+  *Centro Universitário Una* – 2019
+
+---
+
+## Certificações
+
+- **Excel Avançado** – Ninja do Excel
+- **Power BI para business intelligence** – Data Science Academy
+- **SQL Completo para análise de dados** – Udemy
+
+---
+
+## Habilidades
+
+- **Linguagens de Programação**: SQL
+- **Ferramentas de Visualização**: Power BI
+- **Processos de Dados**: ETL (Extração, Transformação e Carga)
+- **Análise de Dados**: Modelagem de dados, análise exploratória, criação de dashboards, geração de relatórios gerenciais
+- **Ferramentas de Análise Logística**: Análise de indicadores logísticos, gestão de transportadoras, otimização de processos
